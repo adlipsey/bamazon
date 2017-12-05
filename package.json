@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adlipsey/bamazon.git"
+  },
+  "author": "Andrew L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adlipsey/bamazon/issues"
+  },
+  "homepage": "https://github.com/adlipsey/bamazon#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "mysql": "^2.15.0"
+  }
+}
